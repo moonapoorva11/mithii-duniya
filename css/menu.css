@@ -4,9 +4,11 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    margin-top: 30px;
     
 }
 .menu-card{
+    
     background-color: #fff;
     width: 150px;
     padding: 10px;
@@ -43,12 +45,13 @@
         color: #fff;
         border: none;
         border-radius: 10px;
-        padding: 1px 8px;
+        padding: 3px 10px;
         display: block;
         margin: 10px auto;
         
     }
     .menu-order-button:hover{
+        
         border-radius:25px;
         transition: 0.3s;
         cursor: pointer;
