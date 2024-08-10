@@ -1,0 +1,142 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fef6e4;
+}
+.bg-light{
+    background-color: #fef6e4;
+}
+
+.bg-primary{
+    background-color: #f582ae;
+}
+
+.bg-secondary{
+    background-color: #8bd3dd;
+}
+
+.text-primary{
+    color: #f582ae;
+}
+
+.text-secondary{
+    color: #8bd3dd;
+}
+
+
+.text-dark{
+    color: #001858;
+}
+
+.text-center{
+    text-align: center;
+}
+.fs-50{
+    font-size: 50px;
+    
+}
+
+.heading{
+    padding-top: 30px;
+    font-size: 50px;
+    font-size:  "Dancing Script", cursive;
+    
+}
+.heading-para{
+    font-size: 20px;
+   margin-top: 30px;
+    font-family: "Satisfy", cursive;
+}
+.btn{
+    margin-top: 30px;
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 5px 15px #f3d2c1;
+    color: #001858;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-primary{
+    background-color: #f582ae;
+}
+
+.btn-secondary{
+    background-color: #8bd3dd;
+}
+.no-underline{
+    text-decoration: none;
+}
+.subtitle-highlight{
+    background-color: #8bd3dd;
+    
+    padding: 4px 10px;
+    border-radius: 10px;}
+
+    .header-section{
+
+        display: flex;
+        justify-content: space-evenly;
+       
+    }
+.header-img{
+   margin-top: 40px;
+    height: 250px;
+    width: 350px;
+    border: 10px solid #f3d2c1;
+    display: block;
+   border-radius: 10px;
+}
+
+.header-descripter-cantainer{
+    width: 50%;
+    
+}
+.why-choose-us-cantainer{
+ display: flex;
+ justify-content: space-evenly;
+ align-items: center;
+ background-color: #f3d2c1;
+ margin: 10px;
+padding: 20px;
+
+}
+
+.why-choose-us-heading{
+    font-size: 40px;
+   
+    padding: 10px;
+    font-family: "Dancing Script", cursive;
+
+}
+
+.why-choose-us-card{
+    background-color: white;
+    width: 190px;
+    height: 200px;
+     border-radius: 5px;
+     box-shadow: 3px 2px 2px 2px rgb(134, 132, 132);
+}
+.why-choose-us-img{
+    height: 60px;
+    display: block;
+    margin: 10px auto;
+   padding-top: 10px;
+}
+.para{
+    margin-top: 30px;
+    font-family:Satisfy, cursive; 
+    
+}
+
+.header-para{
+    font-family:Satisfy, cursive; 
+    margin-top: 25px;
+}
